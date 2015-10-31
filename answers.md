@@ -19,5 +19,6 @@
 
 # Give us feedback on the project and decal below!
 	This was a good project and the instructions were pretty clear, which made it pretty doable. In class, sometimes the lectures can be kind of hard to follow and understand, and I think it would be more helpful if you slowed the steps down and we could follow along on the same project on our laptops.
+https://github.com/akritisingh121/railsdecalproj1
 
 # Extra credit: Link your Heroku deployed app
