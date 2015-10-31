@@ -1,0 +1,6 @@
+<h3>Create a new Pokemon</h3>
+
+<%= simple_form_for @pokemon do |p| %>
+  <%= p.input :name, label: "Enter your Pokemon's name", error: 'Name is mandatory, please specify one' %>
+  <%= p.button :submit %>
+<% end %>
